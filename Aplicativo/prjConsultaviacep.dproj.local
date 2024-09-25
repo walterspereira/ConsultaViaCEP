@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/02/15 18:24:20.000.810,=C:\Users\CCC\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2024/09/23 14:03:37.000.150,=C:\Users\CCC\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2024/09/23 14:16:39.000.107,C:\Users\CCC\Desktop\Walter\Softplan\Projeto\Aplicativo\UConsultaviacep.pas=C:\Users\CCC\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2024/09/23 14:16:39.000.107,C:\Users\CCC\Desktop\Walter\Softplan\Projeto\Aplicativo\UConsultaviacep.dfm=C:\Users\CCC\Documents\Embarcadero\Studio\Projects\Unit5.dfm</Transaction>
+    <Transaction>2024/09/23 14:16:56.000.023,C:\Users\CCC\Desktop\Walter\Softplan\Projeto\Aplicativo\prjConsultaviacep.dproj=C:\Users\CCC\Documents\Embarcadero\Studio\Projects\Project4.dproj</Transaction>
+    <Transaction>2024/09/23 14:56:29.000.432,=C:\Users\CCC\Desktop\Walter\Softplan\Projeto\Aplicativo\Unit1.pas</Transaction>
+    <Transaction>2024/09/23 14:56:54.000.589,C:\Users\CCC\Desktop\Walter\Softplan\Projeto\Aplicativo\Udados.pas=C:\Users\CCC\Desktop\Walter\Softplan\Projeto\Aplicativo\Unit1.pas</Transaction>
+    <Transaction>2024/09/23 14:56:54.000.589,C:\Users\CCC\Desktop\Walter\Softplan\Projeto\Aplicativo\Udados.dfm=C:\Users\CCC\Desktop\Walter\Softplan\Projeto\Aplicativo\Unit1.dfm</Transaction>
+    <Transaction>2024/09/24 10:12:29.000.539,=C:\Users\CCC\Desktop\Walter\Softplan\Projeto\Aplicativo\Unit1.pas</Transaction>
+    <Transaction>2024/09/24 10:33:29.000.448,C:\Users\CCC\Desktop\Walter\Softplan\Projeto\Aplicativo\UViaCEPComponent.pas=C:\Users\CCC\Desktop\Walter\Softplan\Projeto\Aplicativo\Unit1.pas</Transaction>
+    <Transaction>2024/09/24 10:43:24.000.744,C:\Users\CCC\Desktop\Walter\Softplan\Projeto\Aplicativo\UViaCEPComponent.pas=</Transaction>
+  </Transactions>
+</BorlandProject>

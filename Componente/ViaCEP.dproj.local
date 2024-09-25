@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/09/24 10:43:59.000.135,=rtl.dcp</Transaction>
+    <Transaction>2024/09/24 10:45:39.000.484,=C:\Users\CCC\Desktop\Walter\Softplan\Projeto\Componente\UViaCEPComponent.pas</Transaction>
+    <Transaction>2024/09/24 10:46:27.000.533,C:\Users\CCC\Documents\Embarcadero\Studio\Projects\Package1.dproj=C:\Users\CCC\Desktop\Walter\Softplan\Projeto\Componente\ViaCEP.dproj</Transaction>
+    <Transaction>2024/09/24 10:47:02.000.414,=bindcomp.dcp</Transaction>
+    <Transaction>2024/09/24 10:47:02.000.398,=xmlrtl.dcp</Transaction>
+    <Transaction>2024/09/24 10:47:02.000.406,=bindengine.dcp</Transaction>
+    <Transaction>2024/09/24 10:47:02.000.422,=RESTComponents.dcp</Transaction>
+  </Transactions>
+</BorlandProject>
