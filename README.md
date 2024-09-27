@@ -1,17 +1,17 @@
-Arquitetura utilizada
-Delphi 10.3
+Arquitetura utilizada: 
+Delphi 10.3 /
 SQLite
 
-Patterns aplicadas
-POO
-Factory Method
-Strategy
-Template Method
-Observer
-Singleton
+Patterns aplicadas /
+POO /
+Factory Method /
+Strategy /
+Template Method /
+Observer /
+Singleton /
 
 
-Como executar o App
+Como executar o App:
 Abrir no Delphi o arquivo ViaCEP.dpk, que está na pasta componente. Compilar e instalar 
 (Talvez sejá necessario fazer algumas adaptações no componente, dependendo da versão utilizada do Delphi)
 
